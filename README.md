@@ -38,3 +38,9 @@
 - **create-parent:** Create a new parent record.
 - **list-parents:** List all parent records in the database.
 
+## Project Structure
+
+- **cli.py:** Contains the CLI commands and entry point of the application.
+- **database.py:** Defines the ORM models and database-related functions.
+- **models.py:** Contains the ORM model definitions.
+
