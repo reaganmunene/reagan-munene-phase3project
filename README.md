@@ -11,3 +11,30 @@
 
 - **Error Handling:** The application provides informative error messages for invalid user inputs and database operations.
 
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yourusername/python-orm-cli.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd python-orm-cli
+    ```
+
+3. Install dependencies using pip:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+## Commands
+
+- **create-parent:** Create a new parent record.
+- **list-parents:** List all parent records in the database.
+
