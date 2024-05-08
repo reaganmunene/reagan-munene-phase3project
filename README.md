@@ -44,3 +44,14 @@
 - **database.py:** Defines the ORM models and database-related functions.
 - **models.py:** Contains the ORM model definitions.
 
+## Dependancies requirements
+
+This project needs the following installed in your local environment for successful running of the application.
+
+Install:
+1. Sqlalchemy
+2. A virtual environment dependancy
+3. python3 on your machine
+
+## Contributions
+Contributions to the project are welcome!
