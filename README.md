@@ -17,13 +17,13 @@
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/python-orm-cli.git
+    git clone https://github.com/reaganmunene/reagan-munene-phase3project
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd python-orm-cli
+    cd reagan-munene-phase3project
     ```
 
 3. Install dependencies using pip:
